@@ -9,4 +9,4 @@ using m=10000000 n=64
 Input shape torch.Size([10000000, 64])
 TORCH max takes 24.503946 ms
 ```
-Tested on sm70 and sm86
+Tested on sm70 and sm86(RTX 4060Ti)
